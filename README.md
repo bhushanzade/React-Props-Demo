@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### `Live Demo`
+
+Click here for live demo https://bhushanzade.github.io/React-Demo/#/
+
+### `Deploying on Github`
+
+Please change router from browser router to Hash router when you want to deploy your react app on github.
+
 ## Available Scripts
 
 In the project directory, you can run:
