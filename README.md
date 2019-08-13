@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### `Live Demo`
 
-Click here for live demo https://bhushanzade.github.io/React-Demo/#/
+Click here for live demo https://bhushanzade.github.io/React-Props-Demo/#/
 
 ### `Deploying on Github`
 
