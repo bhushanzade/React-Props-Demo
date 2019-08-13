@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bhushanzade.github.io/React-Demo/",
+  "homepage": "https://bhushanzade.github.io/React-Props-Demo/",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "react": "^16.9.0",
